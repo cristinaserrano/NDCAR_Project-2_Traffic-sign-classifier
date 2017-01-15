@@ -12,5 +12,5 @@ This folder includes:
 	- several plots shown in notebook
 	- original images downloaded from internet for final testing (mostly from google maps)
 	- the images downloaded, converted to 32x32 px, 100dpi.
-* Folder 'models' includes saved files from TensorFlow session for final model.
+* Folder `models` includes saved files from TensorFlow session for final model.
 
