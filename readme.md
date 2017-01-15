@@ -1,7 +1,6 @@
 # PROJECT 02: Traffic sign classifier
 
 Project 2 in the course 'Self-Driving Car Engineer', by Udacity.
-Solution submitted on 10st January 2017.  
 
 This folder includes:  
 
@@ -14,3 +13,6 @@ This folder includes:
 	- the images downloaded, converted to 32x32 px, 100dpi.
 * Folder `models` includes saved files from TensorFlow session for final model.
 
+History:  
+- 10/1/17: first submission.  
+- 15/01/17: received feedback from reviewer, modified notebook to comply to feedback suggestions. 
